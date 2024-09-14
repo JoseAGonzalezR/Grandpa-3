@@ -29,11 +29,15 @@
   -Key Questions:
   1.	How do annual members and casual riders use Cyclistic bikes differently?
   2.	Why would casual riders buy Cyclistic annual memberships?
-3.	How can Cyclistic use digital media to influence casual riders to become members?
+  3.	How can Cyclistic use digital media to influence casual riders to become members?
 
 ### Comparison of Arrival and Departure Delays
   - Objective:
   The goal of this visualization was to compare the trends in arrival and departure delays across different days of the week, enabling an analysis of operational efficiency and potential areas for improvement in flight scheduling.
+
+### CES 2014-2024
+  - Objective:
+
 
 <!---
 Grandpa-3/Grandpa-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
