@@ -1,6 +1,7 @@
 # Data Analyst
 
-#### Skills: BigQuery, Business Analysis, Processes, Data Modeling, SQL, Tableau, ETL, Data Viz
+### Skills:
+#### BigQuery, Business Analysis, Processes, Data Modeling, SQL, Tableau, ETL, Data Viz
 
 ## Certifications
 - Google IT Technical Support | North Orange Continuing Education (_Present_)
@@ -21,17 +22,17 @@
 - As the Engineering and CNC Programming Leader, I led a team responsible for developing and optimizing CNC programming processes. By analyzing production data, I improved program accuracy and efficiency, leading to better manufacturing outcomes. Additionally, I managed the creation of production drawings, part numbers, and bills of materials, while training and coaching CNC programmers to enhance their skills and improve program delivery.
 
 ## Projects
-### Capstone - Cyclistic
+### Cyclistic Bike-Share Analysis Case Study
 - Objective:
-The goal is to understand how Cyclistic's annual members and casual riders use bikes differently. Insights from this analysis will inform a marketing strategy aimed at converting casual riders into annual members.
+  The goal is to understand how Cyclistic's annual members and casual riders use bikes differently. Insights from this analysis will inform a marketing strategy aimed at converting casual riders into annual members.
 -Key Questions:
-1.	How do annual members and casual riders use Cyclistic bikes differently?
-2.	Why would casual riders buy Cyclistic annual memberships?
-3.	How can Cyclistic use digital media to influence casual riders to become members?
+  1.	How do annual members and casual riders use Cyclistic bikes differently?
+  2.	Why would casual riders buy Cyclistic annual memberships?
+  3.	How can Cyclistic use digital media to influence casual riders to become members?
 
-
-### Fligths 2013
-- 
+### Comparison of Arrival and Departure Delays
+- Objective:
+  The goal of this visualization was to compare the trends in arrival and departure delays across different days of the week, enabling an analysis of operational efficiency and potential areas for improvement in flight scheduling.
 
 
 
