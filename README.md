@@ -6,7 +6,7 @@
 ## Certifications
 - Google IT Technical Support | North Orange Continuing Education (_Present_)
 - Google Business Intelligence Specialization | Coursera (_August 2024_)								       		
-- Google Data Analytics | Coursera (_July 2019_)	 			        		
+- Google Data Analytics | Coursera (_July 2024_)	 			        		
 
 ## Education
 - B.S., Industrial Engineering | Tecnologico de Monterrey ITESM Mx (_July 2014_)
