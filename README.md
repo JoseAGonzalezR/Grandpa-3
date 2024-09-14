@@ -1,3 +1,9 @@
+- 👋 Hi, I’m @Grandpa-3
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning IT Tech Support
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me at 
+
 # Data Analyst
 
 ### Skills:
@@ -23,29 +29,15 @@
 
 ## Projects
 ### Cyclistic Bike-Share Analysis Case Study
-- Objective:
+  - Objective:
   The goal is to understand how Cyclistic's annual members and casual riders use bikes differently. Insights from this analysis will inform a marketing strategy aimed at converting casual riders into annual members.
   
--Key Questions:
-1.	How do annual members and casual riders use Cyclistic bikes differently?
-2.	Why would casual riders buy Cyclistic annual memberships?
+  -Key Questions:
+  1.	How do annual members and casual riders use Cyclistic bikes differently?
+  2.	Why would casual riders buy Cyclistic annual memberships?
 3.	How can Cyclistic use digital media to influence casual riders to become members?
 
 ### Comparison of Arrival and Departure Delays
-- Objective:
+  - Objective:
   The goal of this visualization was to compare the trends in arrival and departure delays across different days of the week, enabling an analysis of operational efficiency and potential areas for improvement in flight scheduling.
 
-
-
-- 👋 Hi, I’m @Grandpa-3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Grandpa-3/Grandpa-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
