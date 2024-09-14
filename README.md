@@ -26,9 +26,9 @@
 - Objective:
   The goal is to understand how Cyclistic's annual members and casual riders use bikes differently. Insights from this analysis will inform a marketing strategy aimed at converting casual riders into annual members.
 -Key Questions:
-  1.	How do annual members and casual riders use Cyclistic bikes differently?
-  2.	Why would casual riders buy Cyclistic annual memberships?
-  3.	How can Cyclistic use digital media to influence casual riders to become members?
+1.	How do annual members and casual riders use Cyclistic bikes differently?
+2.	Why would casual riders buy Cyclistic annual memberships?
+3.	How can Cyclistic use digital media to influence casual riders to become members?
 
 ### Comparison of Arrival and Departure Delays
 - Objective:
