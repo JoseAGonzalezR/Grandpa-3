@@ -22,8 +22,13 @@
 
 ## Projects
 ### Capstone - Cyclistic
-- The objective of this analysis is to understand the differences in usage patterns between Cyclistic annual members and casual riders.
-- By identifying these differences, we aim to develop targeted marketing strategies to convert casual riders into annual members, thereby increasing profitability and ensuring the company's sustained growth.
+- Objective:
+The goal is to understand how Cyclistic's annual members and casual riders use bikes differently. Insights from this analysis will inform a marketing strategy aimed at converting casual riders into annual members.
+-Key Questions:
+1.	How do annual members and casual riders use Cyclistic bikes differently?
+2.	Why would casual riders buy Cyclistic annual memberships?
+3.	How can Cyclistic use digital media to influence casual riders to become members?
+
 
 ### Fligths 2013
 - 
