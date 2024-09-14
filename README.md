@@ -25,6 +25,7 @@
 ### Cyclistic Bike-Share Analysis Case Study
 - Objective:
   The goal is to understand how Cyclistic's annual members and casual riders use bikes differently. Insights from this analysis will inform a marketing strategy aimed at converting casual riders into annual members.
+  
 -Key Questions:
 1.	How do annual members and casual riders use Cyclistic bikes differently?
 2.	Why would casual riders buy Cyclistic annual memberships?
