@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Grandpa-3
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning IT Tech Support
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at 
-
 # Data Analyst
 
 ### Skills:
@@ -41,6 +35,15 @@
   - Objective:
   The goal of this visualization was to compare the trends in arrival and departure delays across different days of the week, enabling an analysis of operational efficiency and potential areas for improvement in flight scheduling.
 
-#### You can contact me:
 
-[linkedin]: https://linkedin.com/in/jangelgonzalez/
+
+<!---
+Grandpa-3/Grandpa-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+- 👋 Hi, I’m @Grandpa-3
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning IT Tech Support
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me at 
