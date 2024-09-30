@@ -1,4 +1,4 @@
-# From Industrial Engineer to Data Analyst | Business Intelligence Specialist
+# From Manufacturing Engineer to Data Analyst | Business Intelligence Specialist
 
 ### Skills:
 #### BigQuery, Business Analysis, Processes, Data Modeling, SQL, Tableau, ETL, Data Viz
