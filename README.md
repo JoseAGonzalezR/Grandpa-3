@@ -22,6 +22,9 @@
 - As the Engineering and CNC Programming Leader, I led a team responsible for developing and optimizing CNC programming processes. By analyzing production data, I improved program accuracy and efficiency, leading to better manufacturing outcomes. Additionally, I managed the creation of production drawings, part numbers, and bills of materials, while training and coaching CNC programmers to enhance their skills and improve program delivery.
 
 ## Projects
+
+### [Click to see my Webpage](https://JoseAGonzalezR.github.io/Jose_AGonzalez.github.io/)
+
 ### Cyclistic Bike-Share Analysis Case Study
   - Objective:
   The goal is to understand how Cyclistic's annual members and casual riders use bikes differently. Insights from this analysis will inform a marketing strategy aimed at converting casual riders into annual members.
@@ -36,8 +39,14 @@
   The goal of this visualization was to compare the trends in arrival and departure delays across different days of the week, enabling an analysis of operational efficiency and potential areas for improvement in flight scheduling.
 
 ### CES 2014-2024
-  - Objective:
+  - Project Overview:
+  This data analysis project aims to provide insights into employment trends across various industries in California from 2014 to 2024. By analyzing employment data, we seek to uncover trends, identify regional patterns, assess the impact of seasonaly, and highlight industries experiencing significan growth or decline. This findings are intedend to inform workforce developments iniciatives and policy recommendations.
 
+  - Key Questions:
+  1. How has employment changed across industries over the years?
+  2. What are the employment trends across different areas types (metropolitan vs. non-metropolitan)?
+  3. How does seasonally adjusted employment compare to non-adjusted figures over-time?
+  4. Which industries have experienced the highest growth or decline?
 
 <!---
 Grandpa-3/Grandpa-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,5 +56,5 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @Grandpa-3
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning IT Tech Support
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at 
+- 💞️ I’m looking to collaborate on Data Analytics and Business Intelligence
+- 📫 You can reach me at www.linkedin.com/in/jangelgonzalez
